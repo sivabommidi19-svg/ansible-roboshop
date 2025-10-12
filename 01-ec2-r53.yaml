@@ -7,7 +7,7 @@
     zone_id: "Z009120826G54L5D7TCYM"
     domain_name: "daws86b.fun"
     instances:
-      - mongodb
+    - mongodb
 
   tasks:
   - name: create ec2 instance
